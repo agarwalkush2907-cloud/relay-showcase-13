@@ -1,0 +1,1 @@
+Initial setup notes for c-setup branch
