@@ -1,1 +1,1 @@
-CI pipeline setup notes
+This is a new file for ci setup notes
